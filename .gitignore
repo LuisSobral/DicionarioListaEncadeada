@@ -77,3 +77,13 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.vs/DicionarioLIstaEncadeada/v14/.suo
+*.ilk
+DicionarioLIstaEncadeada.sdf
+*.pdb
+*.tlog
+DicionarioLIstaEncadeada.sln
+*.idb
+DicionarioLIstaEncadeada/Debug/DicionarioLIstaEncadeada.log
+*.filters
+DicionarioLIstaEncadeada/DicionarioLIstaEncadeada.vcxproj
